@@ -1,6 +1,6 @@
 <h1 align="center">Holaa soy Neuss. </h1>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Redes</h3>
 <p align="left">
 <a href="https://twitter.com/Alguien87049796?t=iPAziSz-USyMzkmO4WmbcQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Neuss" height="30" width="40" /></a>
 
