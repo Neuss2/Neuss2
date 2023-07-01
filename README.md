@@ -10,6 +10,8 @@
 
 <img src="https://media.discordapp.net/attachments/1074893592201543681/1124073165304377384/png_20230629_162445_0000.png">
 
+• [Invitame](https://discord.com/oauth2/authorize?client_id=$clientID&scope=applications.commands%20bot&permissions=1476783190) • [Soporte](https://discord.gg/DSDjCfgkus) • [Host](https://dash.huguitisnodes.host/) • [Web](https://koyo-web.vercel.app/) • [Privacidad](https://github.com/Neuss2/Pol-tica-de-privacidad-de-Koyo) •
+
 
 <!--
 **Neuss2/Neuss2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
