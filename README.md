@@ -4,14 +4,6 @@
 <p align="left">
 <a href="https://twitter.com/Alguien87049796?t=iPAziSz-USyMzkmO4WmbcQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Neuss" height="30" width="40" /></a>
 
-<h2 align="center">Soy Developer del bot koyo</h2>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Koyo+un+bot+multifuncional.)](https://git.io/typing-svg)
-
-<img src="https://media.discordapp.net/attachments/1074893592201543681/1124073165304377384/png_20230629_162445_0000.png">
-
-• [Invitame](https://discord.com/oauth2/authorize?client_id=$clientID&scope=applications.commands%20bot&permissions=1476783190) • [Soporte](https://discord.gg/DSDjCfgkus) • [Host](https://dash.huguitisnodes.host/) • [Web](https://koyo-web.vercel.app/) • [Privacidad](https://github.com/Neuss2/Pol-tica-de-privacidad-de-Koyo) •
-
 
 <!--
 **Neuss2/Neuss2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
